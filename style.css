@@ -37,3 +37,19 @@ nav ul li a{
 nav ul li a:hover{
     background-color: aqua;
 }
+#home{
+    height: 100vh;
+    background-color: bisque;
+}
+#about{
+    height: 100vh;
+    background-color: bisque;
+}
+#services{
+    height: 100vh;
+    background-color: bisque;
+}
+#contact{
+    height: 100vh;
+    background-color: bisque;
+}
