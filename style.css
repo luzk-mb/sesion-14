@@ -40,19 +40,19 @@ nav ul li a:hover{
 }
 #home{
     height: 100vh;
-    background-color: bisque;
+    background-color: #f4f4f4;
 }
 #about{
     height: 100vh;
-    background-color: bisque;
+    background-color: #f4f4f4;
 }
 #services{
     height: 100vh;
-    background-color: bisque;
+    background-color: #f4f4f4;
 }
 #contact{
     height: 100vh;
-    background-color: bisque;
+    background-color: b#f4f4f4;
 }
 section{
     padding: 2em 0;
