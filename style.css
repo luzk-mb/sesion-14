@@ -80,7 +80,7 @@ main{
     }
     
     .nav-open ul{
-        display: flex;
+        display: none;
     }
 }
 #nav-toggle{
